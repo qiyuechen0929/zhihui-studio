@@ -1,0 +1,32 @@
+# ============ 隐私数据（绝不提交） ============
+# 含 API Key 的配置文件
+.env
+config.json
+config.json.bak
+
+# 用户生成历史与运行日志
+history.json
+app.log
+
+# ============ 打包产物（体积大，不需要提交） ============
+dist/
+build/
+*.spec.bak
+
+# ============ 测试/临时文件 ============
+测试题目_拍照解题.jpg
+make_test_photo.py
+
+# ============ Python ============
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ============ 工具配置 ============
+.claude/
+
+# ============ 系统文件 ============
+Thumbs.db
+.DS_Store
