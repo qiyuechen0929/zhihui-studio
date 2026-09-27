@@ -247,6 +247,6 @@ pyinstaller build.spec    # 产物在 dist/智绘工坊.exe
 
 ## 📄 License
 
-MIT © [陈启粤 (Chen Qiyue)](https://github.com/) 2026
+MIT © [ChenQiyue (Chen Qiyue)](https://github.com/) 2026
 
 > 如果这个项目帮到了你，欢迎 ⭐ Star 支持！有建议或问题也欢迎提出。
